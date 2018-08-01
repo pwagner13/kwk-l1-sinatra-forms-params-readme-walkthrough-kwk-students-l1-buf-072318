@@ -14,7 +14,7 @@ user.
 4. Define params as a Ruby hash containing form data.
 
 ![Green Eggs and Ham](https://s3.amazonaws.com/learn-verified/green-eggs-ham.jpeg)
-
+`
 ## Forms, Forms, Forms!
 
 Think about how many forms you fill out online every day. Credit card payments,
